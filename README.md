@@ -1,1 +1,1 @@
-# maskdetect_jetson
+# jetson_mask
